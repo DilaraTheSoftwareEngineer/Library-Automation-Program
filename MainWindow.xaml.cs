@@ -697,7 +697,7 @@ namespace LibraryAutomationn
             txtDetayAI.Text = "AI Analizi Yapılıyor... 🚀  ";
             try
             {
-                string apiKey = " AIzaSyD55hli0Z63Ul9UKnZ2JEOwxevDCujv8jA";
+                string apiKey = "YOUR API KEY";
                 string url = $"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key={apiKey}";
                 using var client = new System.Net.Http.HttpClient();
                 var req = new { contents = new[] { new { parts = new[] { new { text = $"{author} - {title} kitabını fütüristik özetle." } } } } };
@@ -747,4 +747,5 @@ namespace LibraryAutomationn
         }
         public object ConvertBack(object value, Type targetType, object parameter, System.Globalization.CultureInfo culture) => throw new NotImplementedException();
     }
+
 }

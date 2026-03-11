@@ -40,5 +40,14 @@ Export Ready: Save summaries and reports with a single click.
 
 <img width="1181" height="707" alt="image" src="https://github.com/user-attachments/assets/5b682aa0-3ae8-4ef7-90c1-9f08af117cab" />
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<img width="1170" height="705" alt="image" src="https://github.com/user-attachments/assets/2567fd02-493d-4bb1-af92-6d85c39d3324" />
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<img width="1176" height="698" alt="Ekran görüntüsü 2026-01-08 085224" src="https://github.com/user-attachments/assets/43058da1-c602-4009-9c7d-c1ed52848cf8" />
+
+
 # 🌟 Acknowledgments
 This project was born out of a passion for blending software engineering with aesthetic design. It serves as a benchmark for modern desktop application development.
